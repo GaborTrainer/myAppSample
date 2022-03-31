@@ -1,0 +1,75 @@
+nav {
+    box-sizing: border-box;
+    width: 100%;
+    height: 50px;
+    background: #333333;
+    position: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("topography.png");
+    margin: 0;
+    padding: 0;
+}
+
+#dash, h5 {
+    text-align: center;
+}
+
+section {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h4, h5, h6 {
+    font-family: Courier;
+}
+#logo {
+    padding: 0 0 0 10%;
+}
+
+h1, h2, h3 {
+    font-family: "Raleway";
+}
+
+.colored {
+    color: #ff0099;
+    font-style: normal;
+    font-size: large;
+}
+
+.colored, .colored {
+    margin-left: 50px;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #ff0099;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 35px;
+}
+
+h6 {
+    font-size: 25px;
+}
+
+#links {
+    padding-right: 50px;
+}
